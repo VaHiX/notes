@@ -1,4 +1,4 @@
-# How I Fixed Pearson OnVUE System Testing Problems (Mac)!
+# How I Resolved Pearson OnVUE System Test Issues (Mac)!
 
 I encountered issues during the system check before my online exam on Pearson OnVUE. Given the difficulty of reaching technical support and the fact that many problems have persisted despite years of complaints, I want to share what finally worked for me when troubleshooting the system test on a Mac:
 
