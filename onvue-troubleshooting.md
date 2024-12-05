@@ -35,4 +35,4 @@ You can try the following additional troubleshooting steps:
 
 And finally, my last tricky step:
 Enable **Open using Rosetta** for OnVUE.
-![Open using Rosetta](https://github.com/VaHiX/notes/blob/3307f9a7e51afb28d9f18dc1af6d5a90f29fa0b4/Images/OnVUE/rosetta.png?raw=true)
+![Open using Rosetta](https://github.com/VaHiX/notes/blob/5af4401176e1d7b1ea4ca264fd313472b262d060/Images/OnVUE/rosetta.png?raw=true)
