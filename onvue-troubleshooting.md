@@ -16,6 +16,7 @@ Video streaming connection error
 If you're sure your Mac's firewall settings and router are properly configured, the issue may be that the Access Code has expired. 
 In that case, you can request a new one. 
 How? Simply follow the link in the confirmation email to test your system, and from there, you’ll be able to generate a new code.
+
 ![Lint to test your system](https://github.com/VaHiX/notes/blob/3307f9a7e51afb28d9f18dc1af6d5a90f29fa0b4/Images/OnVUE/email.png?raw=true)
 
 ## System test - Exam simulation - Secure browser test
@@ -35,4 +36,5 @@ You can try the following additional troubleshooting steps:
 
 And finally, my last tricky step:
 Enable **Open using Rosetta** for OnVUE.
+
 ![Open using Rosetta](https://github.com/VaHiX/notes/blob/5af4401176e1d7b1ea4ca264fd313472b262d060/Images/OnVUE/rosetta.png?raw=true)
